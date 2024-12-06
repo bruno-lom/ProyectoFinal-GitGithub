@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 int sumar(int a, int b);
 int restar(int a, int b);
@@ -41,14 +41,15 @@ int main() {
     } while (opcion != 4);
     return 0;
 }
-
+//funcion Thiago De La Fuente
 int sumar(int a, int b) {
-    return 0;
+    return a+b;
 }
 // Funcio Bruno Herrero
 int restar(int a, int b) {
     return  a-b;
 }
+//funcion Thiago De La Fuente
 int multiplicar(int a, int b) {
-    return 0;
+    return a*b;
 }
