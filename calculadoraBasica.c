@@ -45,11 +45,10 @@ int main() {
 int sumar(int a, int b) {
     return 0;
 }
-
+// Funcio Bruno Herrero
 int restar(int a, int b) {
-    return 0;
+    return  a-b;
 }
-
 int multiplicar(int a, int b) {
     return 0;
 }
